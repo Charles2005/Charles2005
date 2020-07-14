@@ -1,4 +1,4 @@
-<img src="https://github.com/Charles2005/Charles2005/blob/master/New%20folder/Profile.jpg">
+
 
 ### Hi, I'm Charles Abe, 
 I am a python developer and I love learning and creating things.
