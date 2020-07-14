@@ -25,6 +25,7 @@ I am a python developer and I love learning and creating things.
 ​
   <p align="center">
     <a href="mailto:abecharles5@gmail.com" alt="Contact me"><img src="https://github.com/Charles2005/Charles2005/blob/master/New%20folder/icons8-email-64.png"></a>
+     <a href="https://www.linkedin.com/in/charles-abe-9696881b2/" alt="Linkedin"><img src="https://github.com/Charles2005/Charles2005/blob/master/New%20folder/icons8-linkedin-64.png"></a>
   </p>
 
 </p>
