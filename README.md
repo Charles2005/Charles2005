@@ -20,9 +20,8 @@ I am a python developer and I love learning and creating things.
  </details>
  
  <hr>
-27
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Let's connect and create wonderful things! Open to anyone!</i>
 ​
   <p align="center">
     <a href="mailto:abecharles5@gmail.com" alt="Contact me"><img src="https://github.com/Charles2005/Charles2005/blob/master/New%20folder/icons8-email-64.png"></a>
